@@ -14,4 +14,8 @@
 
 ###  test008 --feature分支添加信息
 
+###  test009 --feature分支添加信息
+
+###  test010 --feature分支添加信息
+
 ### 测试新的ssh key是否可用
